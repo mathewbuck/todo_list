@@ -1,6 +1,9 @@
 # todo_list
-This is a simpletodo app made to get familiar with Rust 
-Based off Brooks CodingGarden tutorial
+Simple to-do CLI app 
+Built using Brooks CodingGarden tutorial
+
+
+<img width="259" alt="todocli" src="https://user-images.githubusercontent.com/20504394/101419800-a42b6a00-38a5-11eb-87cb-8cc790c3319b.PNG">
 
 it works as follows:
 
