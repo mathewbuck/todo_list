@@ -69,7 +69,8 @@ fn main() {
   };
   
   todo_list.add_to_list("Test to see if it works".to_string());
-  todo_list.add_to_list("Do something with Rust".to_string());
+  todo_list.add_to_list("Customize todo list".to_string());
+  todo_list.add_to_list("Do karate in the garage".to_string());
   todo_list.mark_done(0);
 
   // karate chop - add ascii art
@@ -77,7 +78,7 @@ fn main() {
 
   println!("{:#?}", arguments);
   
-  println!("Place holder Title text..");
+  println!("Super McAwesome Todo list");
 
   match command {
     Command::Get => todo_list.print(),
